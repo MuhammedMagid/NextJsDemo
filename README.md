@@ -37,7 +37,7 @@ Follow these steps to get the project up and running on your local machine.
 3. **Run the development server**:
 
    ```bash
-   npm rub dev
+   npm run dev
 
 4. **Open your browser and go to:**
    http://localhost:3000 to view the application.
