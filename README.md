@@ -26,7 +26,7 @@ Follow these steps to get the project up and running on your local machine.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/muhammedmagid/NextJsDemo.git
+   git clone https://github.com/MuhammedMagid/NextJsDemo.git
    cd NextJsDemo
 
 2. **Install dependencies**:
