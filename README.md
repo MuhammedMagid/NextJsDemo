@@ -3,6 +3,7 @@
 
 This is a simple Next.js project I created to practice and learn web development. The purpose of this project is to display articles fetched from the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/). It also serves as a personal project to showcase some basic web development skills using Next.js 15.
 
+[Deployment that is available](https://next-js-demo-vert-nu.vercel.app/)
 ## Features
 - Home page displaying basics info about the project.
 - A posts page to show all posts from the Json ./posts.
